@@ -1,0 +1,30 @@
+BAS1204@Giai tich 2@3@1@
+BAS1151@Kinh te chinh tri Mac - Lenin@2@1@
+BAS1107@Giao duc the chat 2@2@1@
+BAS1106@Giao duc the chat 1@2@2@
+BAS1105-7@Giao duc quoc phong va an ninh@7@1@
+BAS1150@Triet hoc Mac - Lenin@3@0@
+BAS1122@Tu tuong Ho Chi Minh@2@1@
+BAS1158@Tieng Anh (Course 2)@4@1@
+BAS1156@Tieng Anh bo tro@4@1@
+BAS1152@Chu nghia xa hoi khoa hoc@2@0@
+BAS1157@Tieng Anh (Course 1)@4@1@
+BAS1201@Dai so@3@2@
+BAS1159@Tieng Anh (Course 3)@4@1@
+BAS1203@Giai tich 1@3@1@
+INT1154@Tin hoc co so 1@2@3@
+BSA1221@Phap luat dai cuong@2@2@
+BAS1226@Xac suat thong ke@2@1@
+BAS1224@Vat ly 1 va thi nghiem@4@1@
+BAS1227@Vat ly 3 va thi nghiem@4@0@
+ELE1330@Xu ly tin hieu so@2@1@
+ELE1319@Ly thuyet thong tin@3@2@
+ELE1433@Ky thuat so@2@1@
+INT1339@Ngon ngu lap trinh C++@3@4@
+INT1306@Cau truc du lieu va giai thuat@3@2@
+INT1155@Tin hoc co so 2@2@1@
+INT13145@Kien truc may tinh@3@2@
+INT1359-3@Toan roi rac 2@3@2@
+INT1358@Toan roi rac 1@3@3@
+SKD1101@Ky nang thuyet trinh@1@1@
+SKD1102@Ky nang lam viec nhom@1@2@

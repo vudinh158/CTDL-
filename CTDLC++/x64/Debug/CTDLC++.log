@@ -1,0 +1,17 @@
+﻿  dssv.cpp
+  dsdk.cpp
+  loptinchi.cpp
+  mon.cpp
+  Generating Code...
+/dssv.cpp(1,1): error C1083: Cannot open source file: 'dssv.cpp': No such file or directory
+  (compiling source file '/dssv.cpp')
+  
+/dsdk.cpp(1,1): error C1083: Cannot open source file: 'dsdk.cpp': No such file or directory
+  (compiling source file '/dsdk.cpp')
+  
+/loptinchi.cpp(1,1): error C1083: Cannot open source file: 'loptinchi.cpp': No such file or directory
+  (compiling source file '/loptinchi.cpp')
+  
+/mon.cpp(1,1): error C1083: Cannot open source file: 'mon.cpp': No such file or directory
+  (compiling source file '/mon.cpp')
+  
